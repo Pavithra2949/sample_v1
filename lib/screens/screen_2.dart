@@ -9,7 +9,7 @@ class Screen2 extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: const Text("Screen 2"),
+        title: const Text("Screen Two"),
       ),
       body: const Center(
         child: Text("you have landed it into Screen 2"),
